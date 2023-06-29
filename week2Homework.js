@@ -1,7 +1,11 @@
+// create 2 var
+
 let pizzaPlace = "Pizza Party";
 let numberOfToppings = 9;
-console.log(pizzaPlace);
-console.log(numberOfToppings);
+
+// print the var and types
+console.log(typeof pizzaPlace, pizzaPlace);
+console.log(typeof numberOfToppings, numberOf);
 let sentence = `I went to ${pizzaPlace} and ordered a pizza with ${numberOfToppings} toppings. `
 console.log(sentence);
 
